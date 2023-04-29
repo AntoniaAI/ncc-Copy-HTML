@@ -885,6 +885,7 @@
   align-items: flex-start;
 }
 .desktop2-category {
+  color: white ;
   gap: 10px;
   display: flex;
   padding: 5px 40px;
